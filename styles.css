@@ -17,9 +17,9 @@ body {
 }
 
 main {
-  background: #FAEBD7;
+  background: #e6e6e6;
   border-radius: 10px;
-  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
   padding: 2rem;
   width: 100%;
   max-width: 500px;
@@ -61,7 +61,7 @@ main {
   margin-top: 1.5rem;
   padding: 0.8rem;
   border-radius: 6px;
-  background: var(--light);
+  background: #cccccc;
   font-weight: 500;
 }
 
